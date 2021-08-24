@@ -1,13 +1,13 @@
 [
     {
         "title": "Mr",
-        "firstName": "Frank",
-        "lastName": "Murphy",
-        "email": "frank.murphy@rustvale.com",
-        "role": "User",
-        "password": "sue123",
+        "firstName": "SERGIO",
+        "lastName": "RAMOS",
+        "email": "sramos30@hotmail.com",
+        "role": "Admin",
+        "password": "UR8mvhEqiRDdqpt",
         "id": 1,
-        "dateCreated": "2021-04-08T05:33:05.184Z",
-        "dateUpdated": "2021-04-08T05:33:05.184Z"
+        "dateCreated": "2021-08-24T08:26:56.015Z",
+        "dateUpdated": "2021-08-24T08:26:56.015Z"
     }
 ]
